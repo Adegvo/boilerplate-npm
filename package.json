@@ -15,6 +15,7 @@
 		"name": "ADEDUNKE LALA"
 	},
 	"description": "A project that does something awesome",
-	"keywords": [ "freecodecamp", "boilerplate", "npm", "package.json" ]
+	"keywords": [ "freecodecamp", "boilerplate", "npm", "package.json" ],
+	"license" : "MIT"
 }
 
