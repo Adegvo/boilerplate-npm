@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
+		"package-name" : "^1.0.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
@@ -18,5 +19,6 @@
 	"keywords": [ "freecodecamp", "boilerplate", "npm", "package.json" ],
 	"license" : "MIT",
 	"version": "1.2.0"
+}
 }
 
